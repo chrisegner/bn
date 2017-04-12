@@ -11,7 +11,7 @@
     "url": "git://github.com/keybase/bn"
   },
   "author": "Thomas Wu",
-  "license": "none",
+  "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/keybase/bn/issues"
   },
